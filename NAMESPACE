@@ -1,0 +1,13 @@
+export("TimeVizPro")
+import(
+  ggiraph,
+  shiny,
+  sparkline,
+  dplyr,
+  ggplot2,
+  countrycode
+)
+
+importFrom("grDevices", "rainbow")
+importFrom("graphics", "mtext")
+importFrom("utils", "tail")
