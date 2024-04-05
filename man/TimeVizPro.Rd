@@ -10,7 +10,7 @@ Unleash the power of time-series data visualization with ease using our package.
  The first output shows time-series charts with forecasts, allowing users to visualize trends 
  and changes effortlessly. The second one presents averages per country presented in tables 
  with accompanying sparklines, providing a quick and attractive overview of the data. 
- The last one displayed a customizable world map colored based on user-defined variables 
+ The last one displays a customizable world map colored based on user-defined variables 
  for any chosen number of countries, offering an advanced visual approach to understanding 
  geographical data distributions.
 }
